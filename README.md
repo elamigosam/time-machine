@@ -5,11 +5,9 @@ Somewhere I heard that in order to manipulate time you have to travel faster tha
 Inside this spining circle, the center travels slower and the edge travels faster than the center.  Similar to how here on the ground we stand still, but out in space, the space station in order to stay still, it travels at around 4.76 miles/s.  
 So with this information in mind, we can create a experiment where we blast a laser beam (that travels at the speed of light) and somehow (keyword there) we make it travel in a circle.
 To acomplish this, we need to move or deflect the light beam to continue traveling in a circle.  To achive this result, we can use a mirror.  Mirrors with a shape of a rectangle with the same dimenssions standing on their short side, arranged in a Hexagon (Hexagons are the Bestagons) pattern would deflect the light 60 degrees.  
-```
- / - \
-|     |
- \ _ /
-```
+
+![image](https://user-images.githubusercontent.com/42872169/149014622-2e39e3ef-ebe7-49f7-abf7-1fbe4d1f677f.png)
+
 Light would travel at the speed of light endelessly in a cricle simulating the rotaing circle. At the center of it, objects would travel slower. At the edge of the circle objects would travel faster.  To make it more interesting, we can incresase the angle of the laser light source up by just a single degree to observe the result.  
 This would require the mirrors to be taller to acommodate for the light beam going up. Then on the top, a single mirror would close the top to avoid the light from scaping.  Then at the buttom we would close the Hexagonal Cylinder with a mirror to avoid the light beam from scaping. 
 
@@ -27,7 +25,7 @@ Take a look at the work that Ronald Mallett did, i think he might have been in t
 This is something that came up in my head one night when i was trying to sleep but failed because I had too much caffeine on my system. 
 not sure if any of it is right, but maybe it helps someone out there. Let me know if it does. 
 
-Maybe instead of focussing on the center of the light beam, we focus on the sorunding of it, since the light vortex might make objects around its perimeter go faster than the space inside of it.  Or maybe we need to focus on the top of it, as the vortex might want to suck particles in and push them out on the buttom. Or maybe we need to focus on the buttom, since stuff is coming out of the buttom of it, and to go back in time you have to enter on the exit (the future) and exit in the past (the entrance). 
+Maybe instead of focussing on the center of the light beam, we focus on the sorunding of it, since the light vortex might make objects around its perimeter go faster than the space inside of it.  Or maybe we need to focus on the top of it, as the vortex might want to suck particles in and push them out on the buttom. Or maybe we need to focus on the buttom, since stuff is coming out of the buttom of it, and to go back in time you have to enter on the exit (the future) and exit in the past (the entrance). Maybe we need two laser light to make this work.  Maybe the direction of the light determines the direction of time it travels, clockwise -> future couterclockwise -> past. 
 
 ![image](https://user-images.githubusercontent.com/42872169/149008304-36a9078a-1249-4625-9421-58078b2e5428.png)
 
